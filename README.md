@@ -41,7 +41,7 @@ The dataset includes:
 
 ## 📈 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](E-commerce Dashboard.png)
 
 ---
 
